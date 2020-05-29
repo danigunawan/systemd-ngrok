@@ -23,4 +23,6 @@ or just execute `install.sh` on Linux x64 platform.
     sudo ./install.sh <your_authtoken>
 ```
 STEP 6 : vi ~/.bashrc add export PATH="/opt/ngrok:$PATH" then save
+
+
 STEP 7 : source ~/.bashrc
